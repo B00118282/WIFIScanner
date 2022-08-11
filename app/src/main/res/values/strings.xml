@@ -13,19 +13,19 @@
     <string name="alertDialog_trypin">Try</string>
     <string name="app_descrip">Connect to WIFI using a WPS pin.</string>
     <string name="askWritePermission">To be able to write in the external memory, you need to allow permission.</string>
-    <string name="backupFail">There is a problem. Backup not saved!</string>
+    <string name="backupFail">There was a problem.</string>
     <string name="backupNoRoot">Only available for root users</string>
-    <string name="backupSuccess">Backup done!</string>
+    <string name="backupSuccess">Backup completed.</string>
     <string name="cancel">Cancel</string>
     <string name="chooseMethod_noRoot">Try pin without root</string>
-    <string name="chooseMethod_root">Try pin (root)</string>
+    <string name="chooseMethod_root">Try pin with root</string>
     <string name="choosePIN">Choose a PIN</string>
     <string name="clipBoard">Copied to clipboard</string>
     <string name="connected">Connected!</string>
     <string name="copyClipBoard">Copy</string>
-    <string name="dialogSuccess">It may be possible that you already have the Password. Disable it and try again!</string>
+    <string name="dialogSuccess">It may be possible that you already have the Password. Disable it and try again.</string>
     <string name="dialog_backupPass">Do you want to save a backup of your stored passwords?</string>
-    <string name="dialog_gps_cancel">Remember to enable GPS location to start scanning WiFI networks!</string>
+    <string name="dialog_gps_cancel">Remember to enable GPS location to start scanning WiFI networks.</string>
     <string name="dialog_need_active_gps_info">"Remember, if you're in Android 6.0+, you need to activate GPS."</string>
     <string name="enableWIFI">Enable WIFI</string>
     <string name="enablingWIFI">Enabling WIFI…</string>
@@ -55,18 +55,14 @@ Make sure that WIFI is enabled."</string>
     <string name="no_available">Not available</string>
     <string name="ok">OK</string>
     <string name="request_gps_denied_info">"But… why?
+        Please, allow access to location (GPS) to scan networks."</string>
+    <string name="welcome_mes">""Welcome to Android WIFI Scanner.
 
-Please, allow access to location (GPS) to scan networks."</string>
-    <string name="welcome_mes">""Welcome to Android GPS/Wifi.
-
-To scan WiFi networks using Android 6.0 or above, you must provide location permissions</string>
+To scan WIFI networks using Android 6.0 or above, you must provide GPS/location permissions.</string>
     <string name="saveprocess" >Saving…</string>
     <string name="scanning">Scanning…</string>
-    <string name="title_activity_about">About us</string>
     <string name="title_activity_password">Passwords</string>
-    <string name="tryConnection">"We are trying to connect.
-
-We hope that it's your Network! Seek Permission before testing"</string>
+    <string name="tryConnection">"We are trying to connect.</string>
     <string name="useRootMethod">Use root method</string>
     <string name="writeDeniedDialog">Please, allow to write in the external memory to be able to save the backup.</string>
     <string name="accept">Accept</string>
@@ -78,9 +74,7 @@ We hope that it's your Network! Seek Permission before testing"</string>
     <string name="secured">Not Secured</string>
     <string name="passwords">Passwords</string>
     <string name="info_title">Note</string>
-    <string name="info_message">Remember, you NEED to be ROOT if you are under Kitkat or below.
-
-If you are under Lollipop or upper, you can choose between ROOT and NO ROOT method."</string>
+    <string name="info_message">Remember, you NEED to allow for GPS permissions to scan networks.</string>
     <string name="action_pingen">Pin Generator</string>
     <string name="enter_mac">Enter Mac Address</string>
     <string name="generate">Generate</string>
