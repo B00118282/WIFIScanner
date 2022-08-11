@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Android WIFI Scanner</string>
+    <string name="about_message">No networks available</string>
+    <string name="about_description">"This tool helps you connect to any network that has WPS enabled with a generated pin. It's for testing your own network only.</string>
+    <string name="action_about">About us</string>
+    <string name="action_backupPass">Backup</string>
+    <string name="action_infoPass">Information</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_scanAuto">Automatic</string>
+    <string name="action_scanManual">Manual</string>
+    <string name="action_showPass">Show password</string>
+    <string name="alertDialog_trycustompin">Other pin</string>
+    <string name="generate0">Generate Pin</string>
+    <string name="alertDialog_trypin">Try</string>
+    <string name="app_descrip">Connect to WIFI using a WPS pin.</string>
+    <string name="askWritePermission">To be able to write in the external memory, you need to allow permission.</string>
+    <string name="backupFail">There is a problem. Backup not saved!</string>
+    <string name="backupNoRoot">Only available for root users</string>
+    <string name="backupSuccess">Backup done!</string>
+    <string name="cancel">Cancel</string>
+    <string name="chooseMethod_noRoot">Try pin without root</string>
+    <string name="chooseMethod_root">Try pin (root)</string>
+    <string name="choosePIN">Choose a PIN</string>
+    <string name="clipBoard">Copied to clipboard</string>
+    <string name="connected">Connected!</string>
+    <string name="copyClipBoard">Copy</string>
+    <string name="dialogSuccess">It may be possible that you already have the Password. Disable it and try again!</string>
+    <string name="dialog_backupPass">Do you want to save a backup of your stored passwords?</string>
+    <string name="dialog_gps_cancel">Remember to enable GPS location to start scanning WiFI networks!</string>
+    <string name="dialog_need_active_gps_info">"Remember, if you're in Android 6.0+, you need to activate GPS."</string>
+    <string name="enableWIFI">Enable WIFI</string>
+    <string name="enablingWIFI">Enabling WIFI…</string>
+    <string name="failDialogMsg"><b>Congratulations! Your network is secure!</b>"
+
+If you used the incorrect pin, try:
+
+"<b>1.</b>" Reduce distance from AP.
+"<b>2.</b>" Try different PIN
+"<b>3.</b>" Maybe AP has MAC filter.
+"<b>4.</b>" Maybe the router has a timeout, try again later.
+</string>
+    <string name="info_gps">"Enable location services"</string>
+    <string name="invalidPIN">Invalid PIN</string>
+    <string name="lblInsertPIN">Insert PIN:</string>
+    <string name="lblPassword">Password:</string>
+    <string name="lblSSID">Network:</string>
+    <string name="mainNoNetworks">"There are no nearby WIFI networks."</string>
+    <string name="mainlayout_info">"To begin scanning networks, click 'Scan.'</string>
+    <string name="noInfoToClipBoard">Nothing to copy</string>
+    <string name="noNetAvailable">No networks available</string>
+    <string name="noRootInfo">"Your device is not rooted.&lt;br/>&lt;br/>\"Try PIN (root)\" and \"Show passwords\" are only for rooted devices.&lt;br/>&lt;br/>If your device is not rooted, you only can scan AP's and see info about it.&lt;br/>&lt;br/>&lt;a href=https://www.google.com/search?q=root+%1$s&amp;gws_rd=ssl>How to root your %2$s&lt;/a>&lt;br/>&lt;br/>&lt;i>Become a root user!&lt;/i>"</string>
+    <string name="noSSID">-- Hidden network --</string>
+    <string name="noScan">"Please, press the 'Scan' button to scan available networks.
+
+Make sure that WIFI is enabled."</string>
+    <string name="no_available">Not available</string>
+    <string name="ok">OK</string>
+    <string name="request_gps_denied_info">"But… why?
+
+Please, allow access to location (GPS) to scan networks."</string>
+    <string name="welcome_mes">""Welcome to Android GPS/Wifi.
+
+To scan WiFi networks using Android 6.0 or above, you must provide location permissions</string>
+    <string name="saveprocess" >Saving…</string>
+    <string name="scanning">Scanning…</string>
+    <string name="title_activity_about">About us</string>
+    <string name="title_activity_password">Passwords</string>
+    <string name="tryConnection">"We are trying to connect.
+
+We hope that it's your Network! Seek Permission before testing"</string>
+    <string name="useRootMethod">Use root method</string>
+    <string name="writeDeniedDialog">Please, allow to write in the external memory to be able to save the backup.</string>
+    <string name="accept">Accept</string>
+    <string name="ssid_name">Network Name:</string>
+    <string name="mac_name">Mac Address:</string>
+    <string name="wps_enabled">Wps Enabled:</string>
+    <string name="encryption_type">Encryption Type:</string>
+    <string name="dbm">dBm</string>
+    <string name="secured">Not Secured</string>
+    <string name="passwords">Passwords</string>
+    <string name="info_title">Note</string>
+    <string name="info_message">Remember, you NEED to be ROOT if you are under Kitkat or below.
+
+If you are under Lollipop or upper, you can choose between ROOT and NO ROOT method."</string>
+    <string name="action_pingen">Pin Generator</string>
+    <string name="enter_mac">Enter Mac Address</string>
+    <string name="generate">Generate</string>
+    <string name="wps_pin_is">WPS Pin is:</string>
+</resources>
