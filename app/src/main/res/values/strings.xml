@@ -2,7 +2,6 @@
     <string name="app_name">Android WIFI Scanner</string>
     <string name="about_message">No networks available</string>
     <string name="about_description">"This tool helps you connect to any network that has WPS enabled with a generated pin. It's for testing your own network only.</string>
-    <string name="action_about">About us</string>
     <string name="action_backupPass">Backup</string>
     <string name="action_infoPass">Information</string>
     <string name="action_scan">Scan</string>

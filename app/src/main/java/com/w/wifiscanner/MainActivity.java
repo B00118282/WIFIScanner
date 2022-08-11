@@ -358,9 +358,7 @@ public class MainActivity extends AppCompatActivity {
 
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
-        if (id == R.id.action_about) {
-            showAbout();
-        } else if (id == R.id.action_scan) {
+         if (id == R.id.action_scan) {
             if (!scanauto) {
                 if (!initialisationSYS) {
                     initialisationSYS = true;
