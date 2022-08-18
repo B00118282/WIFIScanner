@@ -54,8 +54,7 @@ If you used the incorrect pin, try:
 Make sure that WIFI is enabled."</string>
     <string name="no_available">Not available</string>
     <string name="ok">OK</string>
-    <string name="request_gps_denied_info">"But… why?
-        Please, allow access to location (GPS) to scan networks."</string>
+    <string name="request_gps_denied_info">"Please, allow access to location (GPS) to scan networks.</string>
     <string name="welcome_mes">""Welcome to Android WIFI Scanner.
 
 To scan WIFI networks using Android 6.0 or above, you must provide GPS/location permissions.</string>
