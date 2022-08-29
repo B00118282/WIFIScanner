@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-mdpi_ic_share_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-mdpi/ic_share_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_home_page.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/home_page.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-ldpi_ic_share_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-ldpi/ic_share_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-anydpi-v21_ic_info_black_24dp.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-anydpi-v21/ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/menu_menu_password.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/menu/menu_password.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-hdpi_ic_share_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-hdpi/ic_share_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_password2.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/password2.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-mdpi_save.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-mdpi/save.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-xhdpi_ic_lock_open.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-xhdpi/ic_lock_open.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xhdpi_save.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xhdpi/save.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-hdpi_save.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-hdpi/save.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-xhdpi_ic_lock.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-xhdpi/ic_lock.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xxxhdpi_ic_info_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xxxhdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-mdpi_ic_wifi_2.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-mdpi/ic_wifi_2.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-xhdpi_ic_wifi_3.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-xhdpi/ic_wifi_3.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/raw_wpa_code_pins.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/raw/wpa_code_pins"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xhdpi_information.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xhdpi/information.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-mdpi_refresh_rotate.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-mdpi/refresh_rotate.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-hdpi_ic_wifi_4.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-hdpi/ic_wifi_4.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable_bg_gradient_bg.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/drawable/bg_gradient_bg.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xxhdpi_information.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xxhdpi/information.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xxhdpi_ic_share_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xxhdpi/ic_share_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_root_checker.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/root_checker.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-xhdpi_refresh_rotate.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-xhdpi/refresh_rotate.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_scanning_page.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/scanning_page.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-anydpi-v21_ic_share_black_24dp.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-anydpi-v21/ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-mdpi_ic_lock_open.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-mdpi/ic_lock_open.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-mdpi_ic_wifi_1.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-mdpi/ic_wifi_1.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_network_info.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/network_info.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xxhdpi_save.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xxhdpi/save.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-hdpi_refresh_rotate.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-hdpi/refresh_rotate.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-anydpi-v21_information.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-anydpi-v21/information.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_activity_main_scanning.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/activity_main_scanning.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-hdpi_ic_wifi_3.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-hdpi/ic_wifi_3.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/raw_wpa_code_pins_1.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/raw/wpa_code_pins_1"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_list.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/list.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_password.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/password.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_home_page2.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/home_page2.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-xhdpi_ic_wifi_2.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-xhdpi/ic_wifi_2.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-hdpi_ic_info_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-hdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-ldpi_save.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-ldpi/save.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_password_list.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/password_list.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-mdpi_ic_wifi_4.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-mdpi/ic_wifi_4.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_map.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/map.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-hdpi_information.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-hdpi/information.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-hdpi_ic_wifi_1.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-hdpi/ic_wifi_1.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/raw_wpa_code_pins_2.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/raw/wpa_code_pins_2"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-xhdpi_ic_wifi_1.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-xhdpi/ic_wifi_1.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xxhdpi_ic_info_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xxhdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable_list_divider.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/drawable/list_divider.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-hdpi_ic_lock.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-hdpi/ic_lock.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-ldpi_ic_info_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-ldpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-mdpi_ic_wifi_3.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-mdpi/ic_wifi_3.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/menu_menu_one.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/menu/menu_one.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xxxhdpi_ic_share_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xxxhdpi/ic_share_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xxxhdpi_information.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xxxhdpi/information.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-mdpi_ic_info_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-mdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xhdpi_ic_share_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xhdpi/ic_share_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-mdpi_information.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-mdpi/information.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_content_act.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/content_act.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-mdpi_ic_lock.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-mdpi/ic_lock.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xhdpi_ic_info_black_24dp.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xhdpi/ic_info_black_24dp.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-anydpi-v21_save.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-anydpi-v21/save.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-ldpi_information.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-ldpi/information.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/drawable-xxxhdpi_save.png.flat",
+        "source": "org.hdev.wifiwpspro.app-pngs-21:/drawable-xxxhdpi/save.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_network_info2.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/network_info2.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-hdpi_ic_wifi_2.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-hdpi/ic_wifi_2.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-xhdpi_ic_wifi_4.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-xhdpi/ic_wifi_4.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/layout_pin_generator.xml.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/layout/pin_generator.xml"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/raw_code_pins.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/raw/code_pins"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/mipmap-hdpi_ic_lock_open.png.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/mipmap-hdpi/ic_lock_open.png"
+    },
+    {
+        "merged": "org.hdev.wifiwpspro.app-merged_res-26:/raw_wpa_code_pins_3.flat",
+        "source": "org.hdev.wifiwpspro.app-main-28:/raw/wpa_code_pins_3"
+    }
+]
