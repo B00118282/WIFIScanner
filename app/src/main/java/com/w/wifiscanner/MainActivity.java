@@ -380,10 +380,6 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void showAbout() {
-        startActivity(new Intent(this, Map.class));
-    }
-
     private void showNetworkOptionsDialog(Networking networking) {
         Builder builder = new Builder(context);
         ESSID = networking.getESSID();

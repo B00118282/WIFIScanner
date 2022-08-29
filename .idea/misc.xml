@@ -3,7 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Lukas/StudioProjects/WIFIScanner/app/src/main/res/layout/activity_main_scanning.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lukas/StudioProjects/WIFIScanner/app/src/main/res/layout/content_act.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lukas/StudioProjects/WIFIScanner/app/src/main/res/layout/home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lukas/StudioProjects/WIFIScanner/app/src/main/res/layout/list.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Lukas/StudioProjects/WIFIScanner/app/src/main/res/layout/network_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lukas/StudioProjects/WIFIScanner/app/src/main/res/layout/network_info2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lukas/StudioProjects/WIFIScanner/app/src/main/res/layout/password_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lukas/StudioProjects/WIFIScanner/app/src/main/res/layout/root_checker.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lukas/StudioProjects/WIFIScanner/app/src/main/res/layout/scanning_page.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Lukas/StudioProjects/WIFIScanner/app/src/main/res/menu/menu_one.xml" value="0.25416666666666665" />
       </map>
     </option>
